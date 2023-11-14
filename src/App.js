@@ -27,7 +27,7 @@ function App() {
             <Home/>
         <Routes>
           <Route
-            path="/home"
+            path="/"
             element={
               <Home
                 heading="EXPERIENCE THE TYCOON'S LIFE STYLE"
