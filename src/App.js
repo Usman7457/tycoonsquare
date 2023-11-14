@@ -24,6 +24,7 @@ function App() {
           pricing="PACKAGES"
           contact="CONTACT US"
         />
+            <Home/>
         <Routes>
           <Route
             path="/home"
