@@ -24,19 +24,9 @@ function App() {
           pricing="PACKAGES"
           contact="CONTACT US"
         />
-            <Home />
         <Routes>
           <Route
             path="/"
-            element={
-              <Home
-                heading="EXPERIENCE THE TYCOON'S LIFE STYLE"
-                buttonTitle="Book Now"
-              />
-            }
-          />
-          <Route
-            path="/tycoonsquare"
             element={
               <Home
                 heading="EXPERIENCE THE TYCOON'S LIFE STYLE"
