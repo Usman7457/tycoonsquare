@@ -34,6 +34,15 @@ function App() {
               />
             }
           />
+          <Route
+            path="/tycoonsquare"
+            element={
+              <Home
+                heading="EXPERIENCE THE TYCOON'S LIFE STYLE"
+                buttonTitle="Book Now"
+              />
+            }
+          />
           <Route path="/about" element={<About />} />
           <Route path="/features" element={<SalientFeatures />} />
           <Route path="/portfolio" element={<Portfolio />} />
