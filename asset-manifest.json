@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tycoonsquare/static/css/main.f0b80479.css",
+    "main.js": "/tycoonsquare/static/js/main.3cbcd9a6.js",
+    "static/js/787.a607a818.chunk.js": "/tycoonsquare/static/js/787.a607a818.chunk.js",
+    "index.html": "/tycoonsquare/index.html",
+    "main.f0b80479.css.map": "/tycoonsquare/static/css/main.f0b80479.css.map",
+    "main.3cbcd9a6.js.map": "/tycoonsquare/static/js/main.3cbcd9a6.js.map",
+    "787.a607a818.chunk.js.map": "/tycoonsquare/static/js/787.a607a818.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0b80479.css",
+    "static/js/main.3cbcd9a6.js"
+  ]
+}
