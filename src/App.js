@@ -24,9 +24,10 @@ function App() {
           pricing="PACKAGES"
           contact="CONTACT US"
         />
+            <Home/>
         <Routes>
           <Route
-            path="/"
+            path="/home"
             element={
               <Home
                 heading="EXPERIENCE THE TYCOON'S LIFE STYLE"
